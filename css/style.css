@@ -18,3 +18,9 @@ button {
 button:hover {
     letter-spacing: 0.3em;
 }
+
+p {
+    text-align: center;
+    padding: 0 10% 20px;
+    color: grey;
+}
