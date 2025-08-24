@@ -24,3 +24,10 @@ p {
     padding: 0 10% 20px;
     color: grey;
 }
+
+img {
+    width: 60px;
+    height: 60px;
+    display: block;
+    margin: 40px auto;
+}
