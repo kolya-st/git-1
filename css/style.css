@@ -7,8 +7,11 @@ h1 {
 }
 
 button {
+    border: none;
+    background: red;
+    color: #fff;
     font-size: 20px;
-    padding: 4px 20px;
+    padding: 6px 30px;
     display: block;
     margin: 0 auto;
     transition: all 0.2s ease;
